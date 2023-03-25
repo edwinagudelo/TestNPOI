@@ -1,0 +1,7 @@
+# Directorios omitidos
+[Dd]ebug/
+[Rr]eleaes/
+
+# Archivos ignorados
+*.ncb
+*.user
